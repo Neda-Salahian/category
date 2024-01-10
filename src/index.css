@@ -1,0 +1,8 @@
+.container-box {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+.row {
+    gap: 10px;
+}
